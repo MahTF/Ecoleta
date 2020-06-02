@@ -39,15 +39,16 @@
 
 <!-- summary -->
 <p align="center">
-  <a href="#clipboard-description">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-getting-started">Iniciando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-whats-inside">O que contém?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#clipboard-descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-iniciando">Iniciando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-o-que-contém">O que contém?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">Licença</a>
 </p>
 
 > Em desenvolvimento...
 
 ## :clipboard: Descrição
+
  Ecoleta serve para cadastrar/mostrar os pontos de coleta de material que pode ser reciclado.
 
 ## :rocket: Iniciando
@@ -67,23 +68,23 @@
  npm install 
  ```
 
-
 ## 🧐 O que contém?
 
 ### :building_construction: Tecnologias
+
 - [React](https://github.com/facebook/react)
 - [Typescript](https://github.com/microsoft/TypeScript)
   
-
 ### :lipstick: Linter tools
+
 - [Visual Studio Code](https://code.visualstudio.com/)
 
-
 ### :package: Pacotes
+
 - [Express](https://github.com/expressjs/express)
+- [Knex](http://knexjs.org/)
 
-
-## :memo: Licença
+## :memo: License
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para saber mais.
 
