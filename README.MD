@@ -83,6 +83,9 @@
 
 - [Express](https://github.com/expressjs/express)
 - [Knex](http://knexjs.org/)
+- [Leaflet.js](https://leafletjs.com/)
+- [IBGE](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1)
+- [Axios](https://github.com/axios/axios)
 
 ## :memo: License
 
