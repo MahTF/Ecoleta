@@ -97,13 +97,6 @@ class PointsController {
             image: `http://192.168.1.106:3333/uploads/${point.image}`
         };
 
-        // const serializedItems = items.map(item => {
-        //     return {
-        //         ...items,
-        //         image: `http://192.168.1.106:3333/uploads/${item.image}`
-        //     };
-        // });
-
         return res.json({ point: serializedPoint, items });
     }
 }

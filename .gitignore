@@ -102,3 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Pasta com as imagens salvas
+server/uploads/*
+!server/uploads/.gitkeep
+
+# Remoção do Banco de dados
+*.sqlite
