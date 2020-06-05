@@ -1,29 +1,18 @@
-<!--<p align="center">
-  <img alt="Icone Ecoleta" src="./web/public/favicon.ico" width="100"/>
+<p align="center">
+  <img alt="Icone Ecoleta" src="mobile/src/assets/logo.png" width="100"/>
 </p> 
--->
 <h1 align="center">
-  Ecoleta
+Ecoleta
 </h1>
 
 <!-- Badges -->
 <p align="center">
-  <!-- if your  -->
-  <a href="https://github.com/mahtf/Ecoleta/graphs/commit-activity" alt="Maintenance">
-    <img src="https://img.shields.io/badge/Maintained%3F-yes-1EAE72.svg" />
-  </a>
 
   <!-- License -->
   <a href="./LICENSE" alt="License: MIT">
-    <img src="https://img.shields.io/badge/License-MIT-1EAE72.svg" />
+    <img alt="GitHub" src="https://img.shields.io/github/license/mahtf/ecoleta?color=blue&label=License">
   </a>
 
-  <!-- codefactor -->
-  <a href="https://www.codefactor.io/repository/github/mahtf/Ecoleta" alt="CodeFactor">
-    <img src="https://www.codefactor.io/repository/github/mahtf/Ecoleta/badge" />
-  </a>
-
-  <br/>
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/mahtf/Ecoleta?color=blue">
 
@@ -31,10 +20,6 @@
   <!-- GitHub repo size -->
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/mahtf/Ecoleta">
 
-  <!-- Social -->  
-  <a href="https://github.com/mahtf/Ecoleta/stargazers">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/mahtf/Ecoleta?style=social">
-  </a>
 </p>
 
 <!-- summary -->
@@ -45,11 +30,11 @@
   <a href="#memo-license">Licença</a>
 </p>
 
-> Em desenvolvimento...
-
 ## :clipboard: Descrição
 
  Ecoleta serve para cadastrar/mostrar os pontos de coleta de material que pode ser reciclado.
+
+ Este projeto foi desenvolvido na Next Level Week #01, semana que durou de 01 a 05 de junho de 2020, um projeto realizado pela [RocketSeat](http://rocketseat.com.br/), sendo liderado pelo [CTO Diego Fernandes](https://github.com/diego3g).
 
 ## :rocket: Iniciando
 
@@ -67,6 +52,16 @@
  ```shell
  npm install 
  ```
+
+3. Execução
+  - Utilizando npm, rode o comando nas aplicações mobile e web: 
+  ```shel
+  npm start 
+  ```
+  - No server, rode: 
+  ```shell
+  npm run dev
+  ```
 
 ## 🧐 O que contém?
 
@@ -86,6 +81,10 @@
 - [Leaflet.js](https://leafletjs.com/)
 - [IBGE](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1)
 - [Axios](https://github.com/axios/axios)
+- [Celebrate](https://github.com/arb/celebrate)
+- [CORS](https://github.com/expressjs/cors)
+- [Multer](https://github.com/expressjs/multer)
+- [react-dropzone](https://github.com/react-dropzone/react-dropzone)
 
 ## :memo: License
 
