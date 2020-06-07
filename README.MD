@@ -85,6 +85,7 @@ Ecoleta
 - [CORS](https://github.com/expressjs/cors)
 - [Multer](https://github.com/expressjs/multer)
 - [react-dropzone](https://github.com/react-dropzone/react-dropzone)
+- [react-native-picker-select](https://github.com/lawnstarter/react-native-picker-select)
 
 ## :memo: License
 
